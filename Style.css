@@ -9,14 +9,20 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .New-Width{
     width: 50%;
     padding-left: 5%;
+    
+}
+.New-Width3{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 5%;
 }
 .New-Width1{
     width: 50%;
-    height: 50%;
     padding-left: 5%;
     padding-top: 2%;
 
