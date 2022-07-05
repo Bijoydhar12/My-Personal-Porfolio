@@ -7,7 +7,7 @@ h1{
 .Name-Color{
     color: coral;
 }
-section{
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
@@ -37,4 +37,12 @@ section{
 }
 .Top-Banner{
     background-image: url();
+}
+.Box-Widht1{
+    width: 50%;
+    padding-left: 5%;
+}
+.Box-Widht2{
+    width: 50%;
+    padding-left: 5%;
 }
