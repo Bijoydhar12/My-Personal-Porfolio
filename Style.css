@@ -40,9 +40,22 @@ h1{
 }
 .Box-Widht1{
     width: 50%;
-    padding-left: 5%;
+    padding: 2%;
+    box-shadow: 5px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+ 
+   
 }
-.Box-Widht2{
-    width: 50%;
-    padding-left: 5%;
+#Developer
+{
+    border-left:7px solid #0396FF;
 }
+#Junion-Developer{
+    border-left: 7px solid rgb(102, 2, 233);
+}
+footer{
+    text-align: center;
+}
+
